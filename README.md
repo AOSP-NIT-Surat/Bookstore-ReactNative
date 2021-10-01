@@ -1,2 +1,3 @@
-# Bookstore-ReactNative
-React Native application for Bookstore
+# Bookstore
+
+An Ideal place for buying and selling your old books.
